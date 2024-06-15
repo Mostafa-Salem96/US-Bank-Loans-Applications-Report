@@ -73,4 +73,34 @@ Objective:
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
 
+DATA ANALYSIS IN EXCEL:
+
+1-	Data Cleaning and Preparing Tools
+•	Sort and Filter
+•	Text to Columns
+•	Remove Duplicates
+•	Data Validation
+•	Find and Replace
+•	Data Entry Form
+2-	Used Functions
+•	Logical Functions: IF, AND, OR
+•	Conditional Functions: SUMIF, SUMIFS, COUNTIF, COUNTIFS
+•	Text Functions: RIGHT, LEFT, CONCATENATE, LEN, UPPER, LOWER, PROPER
+•	Financial Functions: PMT, PV, FV, RATE, NPER, NPV, IRR
+3-	Pivot Tables
+•	Calculated Fields in Pivot Table
+•	Grouping Data with Pivot Table
+4-	Lookup Functions and Merging Techniques
+•	VLOOKUP With Exact Match
+•	INDEX and MATCH vs VLOOKUP
+•	VLOOKUP With Approximate Match
+5-	Formatted and Interactive Tables
+•	Data Model Tool
+•	Slicers
+6-	Charts and Visualizations Techniques
+•	Column Chart and Bar Chart
+•	Line Chart
+•	Pie Chart
+•	Area Chart
+
 
